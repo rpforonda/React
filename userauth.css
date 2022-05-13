@@ -1,0 +1,17 @@
+.error {
+    color: rgb(192, 19, 19)
+}
+
+.auth-bg {
+    background: url('../../assets/images/bg-auth.jpg' ) center;
+}
+
+.user-profile-nav-icon {
+    height: 27px;
+    width: 27px;
+}
+
+.user-profile-avatar {
+    height: auto;
+    width: 75%;
+}
